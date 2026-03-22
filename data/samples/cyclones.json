@@ -1,0 +1,5 @@
+[
+  {"cyclone_id": "nio_2020_amphan", "name": "Amphan", "season": 2020, "basin": "Bay of Bengal"},
+  {"cyclone_id": "nio_2021_tauktae", "name": "Tauktae", "season": 2021, "basin": "Arabian Sea"},
+  {"cyclone_id": "nio_2023_mocha", "name": "Mocha", "season": 2023, "basin": "Bay of Bengal"}
+]

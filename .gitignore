@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+
+# Node
+node_modules/
+dist/
+
+# ML artifacts/logs
+*.pt
+*.pth
+*.pkl
+ml/saved_models/*.pt
+
+# OS
+.DS_Store
